@@ -1,7 +1,8 @@
 import transform_data
 import get_github_info
-def main():
 
+
+def main():
     get_github_info.main()
     transform_data.main()
 
